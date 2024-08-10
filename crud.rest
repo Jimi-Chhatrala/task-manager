@@ -1,0 +1,6 @@
+PUT http://localhost:3000/api/v1/tasks/66b7709a2d9ceca415c28678
+content-type: application/json
+
+{
+    "name": "sample"
+}
